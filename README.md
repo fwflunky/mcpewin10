@@ -3,7 +3,7 @@
 <h>/</h>
 <a>Русский</a>
 </p>
-<img src="https://sun9-78.userapi.com/impg/lmahpWvm9Ca4QvjfgFCj10FHO1nnuyZuXcrgYw/fXaJW3mamEk.jpg?size=735x724&quality=95&sign=b059f62248e531b85d58f5c455737aef&type=album" width="55%" align="right" />
+<img src="https://i.ibb.co/2SRWrDW/p.png" width="55%" align="right" />
 
 # Hacked MCPE v1.1.5
 ## Что внутри?
