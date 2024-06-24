@@ -16,7 +16,7 @@
 
 ## Warning
 
-This is clonned version of Minecraft 1.1.5, This means that you can install Minecraft Bedrock Edition along Minecraft 1.1.5
+This is clonned version of Minecraft 1.1.5, That means you can install Minecraft Bedrock Edition along Minecraft 1.1.5 without data loss
 
 
 ## Installation
