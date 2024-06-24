@@ -8,7 +8,7 @@
 # Hacked MCPE v1.1.5
 ## What inside?
 
-- Untethered from Windows Store (You can play even without Microsoft Account)
+- Untethered from Windows Store (You can play even without Microsoft Account and Without Windows Store installed)
 - Full Game Unlocked
 - All Skins and Capes Unlocked
 - Fixed Freezes and Crashes after launching multiple times
