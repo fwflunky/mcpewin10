@@ -44,7 +44,7 @@
 - [Телеграмм](https://t.me/lywulf)
 
 ```diff
-! Проверено на Windows 10 Flibustier с вырезаным Windows Store
+! Проверено на Windows 10 Flibustier с вырезанным Windows Store
 ```
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
