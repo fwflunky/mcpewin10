@@ -28,6 +28,11 @@ For installing Hacked Minecraft 1.1.5 you need to do this steps:
 - Open folder `installer`, press right mouse button on `install.ps1` file, select `Run with PowerShell`, then grant Administrator Rights and wait for installation end
 - When PowerShell closes - all done and 1.1.5 installed on your PC
 
+## Local Host
+```
+   CheckNetIsolation LoopbackExempt -a -n=“Microsoft.Minecraft115_ekx664bjj63nr”
+```
+
 ## Troubleshooting
 
 - If PowerShell closes and no Minecraft 1.1.5 installed after that, try to enter this command in `PowerShell` opened as Administrator:
