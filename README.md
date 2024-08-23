@@ -14,6 +14,11 @@
 - Исправлены зависания и краш при многоразовом запуске 
 
 
+## LOCALHOST
+```bash
+  CheckNetIsolation LoopbackExempt -a -n=“Microsoft.Minecraft115_ekx664bjj63nr”
+```
+
 ## Важно
 
 Это клонированная версия игры, это значит что рядом с ней можно установить Minecraft Bedrock Edition, без необходимости удаления 1.1.5 и потери данных
